@@ -1,0 +1,4 @@
+﻿algorithm,num_uav,all_success,success_count,success_probability,total_path_length,avg_path_length,planning_time_sec,leader_path_length,crash_count,uav_collision_count,min_uav_distance,safe_distance,conflict_count,has_conflict
+A*,10,True,10,1.0,1353.4922463216242,135.34922463216242,0.7015171999955783,130.0599644942509,0,0,2.356019579160551,3.0,38,True
+RRT,10,False,8,0.8,,,0.0943293000018457,147.89854576329157,0,1,0.11376795259963407,3.0,170,True
+RRT*,10,True,10,1.0,1524.4914468114796,152.44914468114797,0.14954430000216234,145.09443011799425,0,0,2.913681933899661,3.0,2,True
